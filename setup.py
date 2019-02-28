@@ -2,7 +2,7 @@
 
 from os.path import join, dirname
 
-import print_date
+import app
 from setuptools import setup, find_packages
 
 root = dirname(__file__)
