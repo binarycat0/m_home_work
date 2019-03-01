@@ -23,7 +23,7 @@ def app(_str):
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Home work app')
+    parser = argparse.ArgumentParser(description='M home work app')
 
     parser.add_argument('string', default="", type=str, help='Input string')
 
