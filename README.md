@@ -1,6 +1,6 @@
 # m_home_work
 
-## Returns unique chars sequence with max length
+## Возвращает максимальную по длине последовальность символов из входящей строки
     
     # INSTALL
     pip install git+https://github.com/catbinary/m_home_work.git
