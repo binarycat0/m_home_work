@@ -8,7 +8,7 @@ from setuptools import setup, find_packages
 root = dirname(__file__)
 
 setup(
-    name='m_home_work ',
+    name='MHomeWork',
     version=app.__version__,
     packages=find_packages(),
     long_description=open(join(root, 'README.txt')).read(),
